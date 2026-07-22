@@ -1,22 +1,21 @@
-# shrinidhijoshi
-<h1 align="center">Hi 👋, I'm Shrinidhi joshi!!</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shrinidhi Joshi!!</h1>
+<h3 align="center">A passionate Engineer from India</h3>
 
-- 🌱 I’m currently learning **Next.js, Golang, Docker**
+- 🌱 I'm currently learning **Next.js, Golang, Docker**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I'm looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Devops**
+- 🤝 I'm looking for help with **Devops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adarshdeshp?tab=repositories](https://github.com/adarshdeshp?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/shrinidhijoshi?tab=repositories](https://github.com/shrinidhijoshi?tab=repositories)
 
 - 💬 Ask me about **React, JavaScript**
 
-- 📫 How to reach me **adarshdeshpande3@gmail.com**
+- 📫 How to reach me **shrinidhijoshisrj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adarsh deshpande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh deshpande" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shrinidhi-joshi-1b8a50322/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrinidhi joshi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
